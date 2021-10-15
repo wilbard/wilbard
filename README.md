@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @wilbard
+- 💞️ I have experience on so many programming technologies but I am very strong on those based on Spring Framework (Java) & React
 - 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on Banks Systems
